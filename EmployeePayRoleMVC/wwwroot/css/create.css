@@ -1,0 +1,6 @@
+﻿.row{
+    display:flex;
+    justify-content:center;
+    align-items:baseline;
+    background-color:aqua;
+}
